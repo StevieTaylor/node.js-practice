@@ -1,0 +1,26 @@
+{
+  "name": "node.js-practice",
+  "version": "1.0.0",
+  "description": "practice node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevieTaylor/node.js-practice.git"
+  },
+  "keywords": [
+    "node.js",
+    "websocket"
+  ],
+  "author": "Stevie Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StevieTaylor/node.js-practice/issues"
+  },
+  "homepage": "https://github.com/StevieTaylor/node.js-practice#readme",
+  "dependencies": {
+    "websocket": "^1.0.31"
+  }
+}
